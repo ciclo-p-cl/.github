@@ -2,7 +2,7 @@
 
 Ciclo-P es una herramienta de predicción de viajes orientada al ciclismo urbano, basada en modelos de demanda de viajes ampliamente utilizados para la planificación de transporte. Permite simular los efectos de un cambio en la población, la superficie construída para distintos usos y las ciclovías en el número de viajes en bicicleta.
 
-[sitio web](http://ciclo-p.cl)
+[sitio web](http://www.ciclo-p.cl)
 
 ## Estructura del proyecto Ciclo-P
 
